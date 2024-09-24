@@ -17,4 +17,4 @@
 
   Here is the link for the [python website](https://www.python.org/)   
 
-  ![My screenshot](Screen Shot 2024-09-24 at 12.58.42 PM.png "Numpy installation")
+  ![My screenshot](screenshot.png "Numpy installation")
