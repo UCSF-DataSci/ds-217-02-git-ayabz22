@@ -18,3 +18,4 @@
   Here is the link for the [python website](https://www.python.org/)   
 
   ![My screenshot](screenshot.png "Numpy installation")
+  ![Fav Meme](https://catlintucker.com/wp-content/uploads/2015/02/Catlin-Tucker-Meme-300x198.png)
